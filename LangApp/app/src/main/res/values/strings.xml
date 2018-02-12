@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Core 1K Japanese</string>
+    <string name="title_activity_extra_info">ExtraInfo</string>
+    <string name="title_activity_wordlist">wordlist</string>
+    <string name="title_activity_wordslist">wordslist</string>
+    <string name="action_settings">Settings</string>
+</resources>
